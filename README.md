@@ -1,5 +1,5 @@
 ### Hi there
-[![Linkedin Badge](https://img.shields.io/badge/-nitesh748099-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-thakur-667103219/)](https://www.linkedin.com/in/nitesh-thakur-667103219/)
+[![Linkedin Badge](https://img.shields.io/badge/-Nitesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitesh-thakur-667103219/)](https://www.linkedin.com/in/nitesh-thakur-667103219/)
 
 I'm
 Full Stack Solution Architect
